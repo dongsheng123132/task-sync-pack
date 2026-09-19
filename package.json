@@ -1,6 +1,6 @@
 {
   "name": "task-sync-pack",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "任务同频器：从一个任务合同生成给人和 AI 同时可读、可校验的同频任务包。",
   "type": "module",
   "bin": {

@@ -1,11 +1,20 @@
 ---
 name: task-sync-pack
+slug: task-sync-pack
 display_name: 任务同频器
 display_name_en: Task Sync Pack
+displayName: 任务同频器 / Task Sync Pack
 description: 把一项中文任务制作成“同频任务包”：从一个结构化任务合同，确定性生成给人看的任务说明、给 AI 执行的任务说明和可校验压缩包。适用于任务交接、外包协作、人机同屏确认；不用于传递聊天全文或替代跨机器事实复验。
 description_zh: 一份任务合同，确定性生成给人和 AI 的两份中文说明及可校验压缩包。
 description_en: Generate human and AI task views plus a verifiable archive from one structured task contract.
-version: 0.1.0
+summary: 从一份任务合同确定性生成给人和 AI 的中文说明及可校验压缩包。
+version: 0.1.1
+license: MIT
+homepage: https://github.com/dongsheng123132/task-sync-pack
+tags:
+  - task-handoff
+  - task-contract
+  - ai-agent
 author: 2Origin
 metadata:
   openclaw:
