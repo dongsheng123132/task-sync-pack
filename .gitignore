@@ -1,0 +1,4 @@
+node_modules/
+*.task-sync.zip
+.tmp/
+dist/

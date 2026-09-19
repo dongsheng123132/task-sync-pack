@@ -1,0 +1,20 @@
+{
+  "name": "task-sync-pack-marketplace",
+  "owner": { "name": "2Origin" },
+  "description": "任务同频器：中文人机共读任务合同。",
+  "version": "0.1.0",
+  "plugins": [
+    {
+      "name": "task-sync-pack",
+      "source": { "source": "github", "repo": "dongsheng123132/task-sync-pack" },
+      "description": "从一份任务合同生成给人和 AI 同时可读、可校验的中文任务包。",
+      "version": "0.1.0",
+      "author": { "name": "2Origin" },
+      "homepage": "https://github.com/dongsheng123132/task-sync-pack",
+      "repository": "https://github.com/dongsheng123132/task-sync-pack",
+      "license": "MIT",
+      "keywords": ["任务交接", "人机协作", "中文", "task-contract"],
+      "category": "Productivity"
+    }
+  ]
+}

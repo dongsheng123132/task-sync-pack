@@ -1,0 +1,19 @@
+{
+  "name": "task-sync-pack",
+  "version": "0.1.0",
+  "description": "任务同频器：从一份任务合同生成给人和 AI 同时可读、可校验的中文任务包。",
+  "author": {
+    "name": "2Origin"
+  },
+  "homepage": "https://github.com/dongsheng123132/task-sync-pack",
+  "repository": "https://github.com/dongsheng123132/task-sync-pack",
+  "license": "MIT",
+  "keywords": [
+    "任务交接",
+    "人机协作",
+    "task-passport",
+    "workbuddy",
+    "中文",
+    "task-contract"
+  ]
+}
